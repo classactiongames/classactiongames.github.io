@@ -1,0 +1,10 @@
+/* Tertiary: Villager #3, Case No. 001: its game zone (see "Game zone" in ../site.css).
+   The only colours the studio frame takes from the game: its Game Boy greens and its logo's gold.
+   Contrast on the stage (#0f380f): ink 11.6:1, muted 6.0:1, highlight 9.5:1. */
+.game-zone[data-game="tertiary"] {
+  --g-accent: #306230;       /* Game Boy green, the tab strip */
+  --g-stage: #0f380f;        /* the darkest Game Boy green, behind the key art, trailer and clips */
+  --g-stage-ink: #e0f8d0;
+  --g-stage-muted: #9bbc0f;  /* the lightest Game Boy green */
+  --g-highlight: #ffd84a;    /* the logo's gold */
+}

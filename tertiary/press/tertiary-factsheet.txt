@@ -1,0 +1,80 @@
+TERTIARY: VILLAGER #3 - FACT SHEET
+Class Action Games press kit: https://classactiongames.com/tertiary/press/
+
+Developer      Class Action Games
+Publisher      Class Action Games (self-published)
+Genre          Active comedy incremental
+Platforms      Windows (Steam); Steam Deck support planned
+Free demo      All of Act 1, about 45–60 minutes, in the browser on itch.io
+               (coming soon)
+Release date   To be announced
+Price          To be announced
+Length         About 4–6 hours to the credits, then New Game+
+Languages      English, Simplified Chinese (简体中文), Russian (Русский), Spanish
+               (Español), Portuguese (Brazil) (Português (Brasil)), German
+               (Deutsch), French (Français), Japanese (日本語), Korean (한국어)
+Input          Mouse, keyboard or controller
+Music          Original chiptune soundtrack. No licensed tracks: safe to
+               stream and monetize
+
+LINKS
+  Website        https://classactiongames.com/tertiary/
+  Press kit      https://classactiongames.com/tertiary/press/
+  Steam          Store page coming soon
+  Free demo      Coming soon on itch.io
+  Discord        https://discord.gg/4bkDfHh6E2
+  Contact        classactiongames@gmail.com
+
+TAGLINE
+The hero gets the story. You get the upgrades.
+
+ONE LINE
+You're the NPC by the well in someone else's RPG: buy upgrades for yourself
+and the game around you until the Hero finally notices you.
+
+SHORT DESCRIPTION
+An active comedy incremental about the NPC by the well. Earn Screen Time every
+time the Hero walks past, then upgrade yourself and the game you're stuck in:
+a second line of dialogue, legs (beta), 16-bit color, a kazoo, a chiptune
+band. The hero gets the story. You get the upgrades.
+
+LONG DESCRIPTION
+You are Villager #3. You stand by the well in Mossbrook and say one line:
+"Welcome to Mossbrook!" You have four colors (all green), no legs, no music
+and no name. Every 45 seconds or so, Lance Valorheart, the Hero, walks past on
+his way to the real adventure. He has never once looked at you.
+
+Every time he walks past, you earn Screen Time. Spend it: on a second line of
+dialogue, Legs (beta), a name up to 8 letters long, a wooden spoon, 16-bit
+color that spreads out from you while the Hero stays stubbornly monochrome,
+and a soundtrack that starts as one kazoo.
+
+Say your line at exactly the right moment, photobomb his cutscenes, beat
+Villager #2 to the Hero's errands, and catch Gerald, Chicken #3, the only one
+who has always noticed you. Every purchase changes how Mossbrook looks, sounds
+or plays, and the whole town has opinions about it.
+
+FEATURES
+- An active comedy incremental where nearly every upgrade visibly or audibly
+  changes the game, with a joke attached
+- 16-bit JRPG pixel art that starts in four shades of Game Boy green and earns
+  every color
+- An original chiptune soundtrack that grows from silence to kazoo to band to
+  16-bit orchestra. No licensed music, so it's safe to stream and monetize
+- Active without frantic clicking: hold to wave, a Relaxed or Auto assist for
+  the timing mini-games, and some progress while you're away
+- Every reveal can be skipped after half a second and replayed in the Upgrade
+  Museum
+- Mouse, keyboard or controller
+- Three acts, about 4–6 hours to the credits, then New Game+
+
+USING THESE FILES
+You may use the screenshots, videos, GIFs and logos in this press kit in
+coverage of the game: articles, reviews, videos and streams, commercial or
+not. No need to ask first. The soundtrack has no licensed music, so videos and
+streams of the game are safe to monetize.
+
+ABOUT CLASS ACTION GAMES
+Class Action Games is an independent game studio that makes comedy games. Its
+first game, Tertiary: Villager #3, is an active comedy incremental about the
+NPC by the well, coming to Steam.

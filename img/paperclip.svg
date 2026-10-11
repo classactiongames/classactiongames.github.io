@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 64" width="22" height="64">
+  <!-- A paperclip, three nested U-turns of one wire. -->
+  <path d="M7 44 V12 a4 4 0 0 1 8 0 V50 a7 7 0 0 1 -14 0 V8 a7 7 0 0 1 14 0" fill="none" stroke="#5d5a62" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M7 44 V12 a4 4 0 0 1 8 0 V50 a7 7 0 0 1 -14 0 V8 a7 7 0 0 1 14 0" fill="none" stroke="#c9c5cc" stroke-width="1" stroke-linecap="round" transform="translate(-.6 -.4)"/>
+</svg>
