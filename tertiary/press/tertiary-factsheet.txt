@@ -71,6 +71,10 @@ FEATURES
 VIDEOS (web copies, 1080p; masters on request)
   Trailer        1:16  https://classactiongames.com/tertiary/media/video/tertiary-trailer.mp4
                        https://classactiongames.com/tertiary/media/video/tertiary-trailer.webm
+  Social cut     0:33  https://classactiongames.com/tertiary/media/video/tertiary-trailer-social-16x9.mp4
+                       https://classactiongames.com/tertiary/media/video/tertiary-trailer-social-16x9.webm
+  Short          0:18  https://classactiongames.com/tertiary/media/video/tertiary-short-9x16.mp4
+                       https://classactiongames.com/tertiary/media/video/tertiary-short-9x16.webm
 
 USING THESE FILES
 You may use the screenshots, videos, GIFs and logos in this press kit in
