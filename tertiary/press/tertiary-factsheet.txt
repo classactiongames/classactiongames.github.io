@@ -5,7 +5,7 @@ Developer      Class Action Games
 Publisher      Class Action Games (self-published)
 Genre          Active comedy incremental
 Platforms      Windows (Steam); Steam Deck support planned
-Free demo      All of Act 1, in the browser on itch.io (coming soon)
+Free demo      All of Act 1, on Steam (coming soon)
 Release date   To be announced
 Price          To be announced
 Languages      English, Simplified Chinese (简体中文), Russian (Русский), Spanish
@@ -19,7 +19,7 @@ LINKS
   Website        https://classactiongames.com/tertiary/
   Press kit      https://classactiongames.com/tertiary/press/
   Steam          Store page coming soon
-  Free demo      Coming soon on itch.io
+  Free demo      Coming soon on Steam
   Discord        https://discord.gg/4bkDfHh6E2
   Contact        classactiongames@gmail.com
 
