@@ -24,7 +24,7 @@ LINKS
   Contact        classactiongames@gmail.com
 
 TAGLINE
-The hero gets the story. You get the upgrades.
+The hero gets the story but you get... the upgrades?
 
 ONE LINE
 You're the NPC by the well in someone else's RPG, buying upgrades for yourself
@@ -34,7 +34,7 @@ SHORT DESCRIPTION
 An active comedy incremental about the NPC by the well. Every time the Hero
 walks past you earn Screen Time to spend on yourself and on the game you're
 stuck in, from a second line of dialogue and Legs (beta) to 16-bit color and a
-kazoo. The hero gets the story. You get the upgrades.
+kazoo. The hero gets the story but you get... the upgrades?
 
 LONG DESCRIPTION
 You are Villager #3. You stand by the well in Mossbrook and say one line,
